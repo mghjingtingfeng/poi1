@@ -88,6 +88,9 @@ public class PoiApplicationTests {
         System.out.println("world");
         System.out.println("xiaoheihei");
         System.out.println("牛批");
+        System.out.println("hi");
+        System.out.println("傻叉");
+        System.out.println("傻屌");
     }
 
 }
