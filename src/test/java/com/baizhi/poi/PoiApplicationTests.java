@@ -85,6 +85,7 @@ public class PoiApplicationTests {
     @Test
     public void test2() {
         System.out.println("hello");
+        System.out.println("world");
     }
 
 }
